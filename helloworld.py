@@ -1,2 +1,1 @@
 print ("master")
-print ("helloworld")
